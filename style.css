@@ -1,0 +1,11 @@
+body {
+  background: rgb(211, 211, 211);
+  color: white;
+}
+
+div.form-container {
+  width: 60%;
+  height: 400px;
+  margin: auto;
+  background: rgb(96, 158, 160);
+}
